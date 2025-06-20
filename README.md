@@ -6,5 +6,5 @@
 ### Herramientas:
 [![tools](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
 
-### OSs:
+### Sistemas Operativos:
 [![oss](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
