@@ -6,7 +6,7 @@
 [![techs](https://skillicons.dev/icons?i=flutter,dart,firebase)](https://skillicons.dev)
 
 ### Herramientas (en aprendizaje):
-[![tools](https://skillicons.dev/icons?i=git,github,figma,obsidian)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=git,github,figma,obsidian,notion)](https://skillicons.dev)
 
 ### Sistemas Operativos (en aprendizaje):
 [![oss](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
