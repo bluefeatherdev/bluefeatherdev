@@ -9,7 +9,7 @@ Me apasiona crear experiencias digitales modernas, funcionales y atrayentes.
 Estoy enfocado en el desarrollo multiplataforma, aprendiendo tecnologías como Dart, Flutter y Firebase.
 
 [![Static Badge](https://img.shields.io/badge/instagram-bluefeather.dev-FF0069?style=social&logo=instagram)](https://www.instagram.com/bluefeather.dev)
-[![Static Badge](https://img.shields.io/badge/threads-bluefeather.dev-000000?style=social&logo=threads)](https://www.instagram.com/bluefeather.dev)
+[![Static Badge](https://img.shields.io/badge/threads-bluefeather.dev-000000?style=social&logo=threads)](https://www.threads.com/@bluefeather.dev)
 [![Static Badge](https://img.shields.io/badge/bluesky-bluefeatherdev-0285FF?style=social&logo=bluesky)](https://bsky.app/profile/bluefeatherdev.bsky.social)
 
 ### Tecnologías (en aprendizaje):
