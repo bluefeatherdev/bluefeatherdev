@@ -7,7 +7,10 @@
 Estudio Ingeniería de Sistemas en Barranquilla, Colombia.
 Me apasiona crear experiencias digitales modernas, funcionales y atrayentes.
 Estoy enfocado en el desarrollo multiplataforma, aprendiendo tecnologías como Dart, Flutter y Firebase.
-A continuación puedes ver las herramientas y tecnologías que manejo:
+
+[![Static Badge](https://img.shields.io/badge/instagram-bluefeather.dev-FF0069?style=social&logo=instagram)](https://www.instagram.com/bluefeather.dev)
+[![Static Badge](https://img.shields.io/badge/threads-bluefeather.dev-000000?style=social&logo=threads)](https://www.instagram.com/bluefeather.dev)
+[![Static Badge](https://img.shields.io/badge/bluesky-bluefeatherdev-0285FF?style=social&logo=bluesky)](https://bsky.app/profile/bluefeatherdev.bsky.social)
 
 ### Tecnologías (en aprendizaje):
 <!-- [![techs](https://skillicons.dev/icons?i=flutter,dart,firebase)](https://skillicons.dev) -->
@@ -23,4 +26,3 @@ A continuación puedes ver las herramientas y tecnologías que manejo:
 
 ### Coming Soon:
 [![techs](https://skills.syvixor.com/api/icons?i=kotlin,swift,androidstudio,xcode)](https://github.com/syvixor/skills-icons)
-
