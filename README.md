@@ -29,3 +29,5 @@ Estoy enfocado en el desarrollo multiplataforma, aprendiendo tecnologías como D
 
 #### Coming Soon:
 [![techs](https://skills.syvixor.com/api/icons?i=kotlin,swift,androidstudio,xcode)](https://github.com/syvixor/skills-icons)
+
+> Made with '\u{2665}' (♥)
