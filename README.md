@@ -22,7 +22,7 @@ Estoy enfocado en el desarrollo multiplataforma, aprendiendo tecnologías como D
 
 #### Herramientas (en aprendizaje):
 <!-- [![tools](https://skillicons.dev/icons?i=git,github,figma,obsidian,notion)](https://skillicons.dev) -->
-[![tools](https://skills.syvixor.com/api/icons?i=git,github,vscode,figma,obsidian,notion)](https://github.com/syvixor/skills-icons)
+[![tools](https://skills.syvixor.com/api/icons?i=git,github,vscode,figma,obsidian,notion,bash)](https://github.com/syvixor/skills-icons)
 
 #### Sistemas Operativos (en aprendizaje):
 <!-- [![oss](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev) -->
