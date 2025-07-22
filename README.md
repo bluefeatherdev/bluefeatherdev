@@ -13,7 +13,7 @@ Estoy enfocado en el desarrollo multiplataforma, aprendiendo tecnologías como D
 [![Instagram](https://img.shields.io/badge/instagram-bluefeather.dev-FF0069?style=for-the-badge&logo=instagram&labelColor=101010)](https://www.instagram.com/bluefeather.dev)
 [![Threads](https://img.shields.io/badge/threads-bluefeather.dev-000000?style=for-the-badge&logo=threads&labelColor=101010)](https://www.threads.com/@bluefeather.dev)
 [![Bluesky](https://img.shields.io/badge/bluesky-bluefeatherdev-0285FF?style=for-the-badge&logo=bluesky&labelColor=101010)](https://bsky.app/profile/bluefeatherdev.bsky.social)
-[![X](https://img.shields.io/badge/bluefeatherdev-000000?style=for-the-badge&logo=x&labelColor=101010)](https://x.com/bluefeatherdev)
+[![X](https://img.shields.io/badge/x (twitter)-bluefeatherdev-000000?style=for-the-badge&logo=x&labelColor=101010)](https://x.com/bluefeatherdev)
 [![YouTube](https://img.shields.io/badge/youtube-bluefeatherdev-FF0000?style=for-the-badge&logo=youtube&labelColor=101010)](https://www.youtube.com/@bluefeatherdev)
 
 #### Tecnologías (en aprendizaje):
