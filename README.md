@@ -17,12 +17,12 @@ Estoy enfocado en el desarrollo multiplataforma, aprendiendo tecnologías como D
 [![YouTube](https://img.shields.io/badge/youtube-bluefeatherdev-FF0000?style=for-the-badge&logo=youtube&labelColor=101010)](https://www.youtube.com/@bluefeatherdev)
 
 #### 🎯 Tecnologías (en aprendizaje):
-<!-- [![techs](https://skillicons.dev/icons?i=flutter,dart,firebase)](https://skillicons.dev) -->
+<!-- [![techs](https://skillicons.dev/icons?i=flutter,dart,firebase,bash)](https://skillicons.dev) -->
 [![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,firebase)](https://github.com/syvixor/skills-icons)
 
 #### 🛠️ Herramientas (en aprendizaje):
 <!-- [![tools](https://skillicons.dev/icons?i=git,github,figma,obsidian,notion)](https://skillicons.dev) -->
-[![tools](https://skills.syvixor.com/api/icons?i=git,github,vscode,figma,obsidian,notion,bash)](https://github.com/syvixor/skills-icons)
+[![tools](https://skills.syvixor.com/api/icons?i=git,github,vscode,figma,obsidian,notion)](https://github.com/syvixor/skills-icons)
 
 #### 🔄 Sistemas Operativos (en aprendizaje):
 <!-- [![oss](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev) -->
