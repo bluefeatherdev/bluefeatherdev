@@ -18,17 +18,17 @@ Estoy enfocado en el desarrollo multiplataforma, aprendiendo tecnologías como F
 
 ### 🎯 Tecnologías (en aprendizaje):
 <!-- [![techs](https://skillicons.dev/icons?i=flutter,dart,firebase)](https://skillicons.dev) -->
-[![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,firebase,bash)](https://github.com/syvixor/skills-icons)
+[![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,firebase,bash&radius=40)](https://github.com/syvixor/skills-icons)
 
 ### 🛠️ Herramientas (en aprendizaje):
 <!-- [![tools](https://skillicons.dev/icons?i=git,github,figma,obsidian,notion)](https://skillicons.dev) -->
-[![tools](https://skills.syvixor.com/api/icons?i=git,github,vscode,figma,obsidian,notion)](https://github.com/syvixor/skills-icons)
+[![tools](https://skills.syvixor.com/api/icons?i=git,github,vscode,figma,obsidian,notion&radius=40)](https://github.com/syvixor/skills-icons)
 
 ### 🔄 Sistemas Operativos (en aprendizaje):
 <!-- [![oss](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev) -->
-[![oss](https://skills.syvixor.com/api/icons?i=android,ios,windows,macos,linux)](https://github.com/syvixor/skills-icons)
+[![oss](https://skills.syvixor.com/api/icons?i=android,ios,windows,macos,linux&radius=40)](https://github.com/syvixor/skills-icons)
 
 ### 🔭 Coming Soon:
-[![techs](https://skills.syvixor.com/api/icons?i=bloc,riverpod,getx,kotlin,jetpackcompose,androidstudio,swift,swiftui,xcode)](https://github.com/syvixor/skills-icons)
+[![techs](https://skills.syvixor.com/api/icons?i=bloc,riverpod,getx,kotlin,jetpackcompose,androidstudio,swift,swiftui,xcode&perline=3&radius=40)](https://github.com/syvixor/skills-icons)
 
 > Made with '\u{2665}' (♥)
