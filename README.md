@@ -11,6 +11,7 @@ Estoy enfocado en el desarrollo multiplataforma, aprendiendo tecnologías como *
 [![Bluesky](https://img.shields.io/badge/bluesky-bluefeatherdev-0285FF?style=for-the-badge&logo=bluesky&labelColor=101010)](https://bsky.app/profile/bluefeatherdev.bsky.social)
 [![X](https://img.shields.io/badge/x_(twitter)-bluefeatherdev-000000?style=for-the-badge&logo=x&labelColor=101010)](https://x.com/bluefeatherdev)
 [![YouTube](https://img.shields.io/badge/youtube-bluefeatherdev-FF0000?style=for-the-badge&logo=youtube&labelColor=101010)](https://www.youtube.com/@bluefeatherdev)
+[![Twitch](https://img.shields.io/badge/twitch-bluefeatherdev-9146FF?style=for-the-badge&logo=twitch&labelColor=101010)](https://www.twitch.tv/bluefeatherdev)
 
 ### 🎯 Tecnologías (en aprendizaje):
 <!-- [![techs](https://skillicons.dev/icons?i=flutter,dart,firebase)](https://skillicons.dev) -->
