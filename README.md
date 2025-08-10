@@ -23,7 +23,7 @@ Estoy enfocado en el desarrollo multiplataforma, aprendiendo tecnologías como *
 
 ### 🔄 Sistemas Operativos (en aprendizaje):
 <!-- [![oss](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev) -->
-[![oss](https://skills.syvixor.com/api/icons?i=android,ios,windows,macos,linux&radius=40)](https://github.com/syvixor/skills-icons)
+[![oss](https://skills.syvixor.com/api/icons?i=android,ios,macos,linux,windows&radius=40)](https://github.com/syvixor/skills-icons)
 
 ### 🔭 Coming Soon:
 [![techs](https://skills.syvixor.com/api/icons?i=bloc,riverpod,getx,kotlin,jetpackcompose,androidstudio,swift,swiftui,xcode&radius=40)](https://github.com/syvixor/skills-icons)
