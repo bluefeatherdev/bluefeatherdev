@@ -2,13 +2,13 @@
 
 ¡Hola! 👋 Soy **desarrollador de aplicaciones móviles Android y iOS** 📲.
 
-Esoy en cuarto año de Ingeniería de Sistemas, Colombia; escogí la ruta de desarrollo de Software, ya que me apasiona el aprendizaje de lenguajes y la creación de experiencias digitales modernas, funcionales y atrayentes.
+Estoy en cuarto año de Ingeniería de Sistemas, Colombia; escogí la ruta de desarrollo de Software, ya que me apasiona el aprendizaje de lenguajes y la creación de experiencias digitales modernas, funcionales y atrayentes.
 
-Actualmente, estoy enfocado en el desarrollo multiplataforma, aprendiendo tecnologías como **Flutter**, **Dart** y **Firebase**. Estas son mis redes como desarollador:
+Actualmente, estoy enfocado en el desarrollo móvil multiplataforma, aprendiendo tecnologías como **Flutter**, **Dart** y **Firebase**. Estas son mis redes como desarollador:
 
 [![Instagram](https://img.shields.io/badge/instagram-bluefeather.dev-FF0069?style=for-the-badge&logo=instagram&labelColor=101010)](https://www.instagram.com/bluefeather.dev)
 [![Threads](https://img.shields.io/badge/threads-bluefeather.dev-000000?style=for-the-badge&logo=threads&labelColor=101010)](https://www.threads.com/@bluefeather.dev)
-[![Bluesky](https://img.shields.io/badge/bluesky-bluefeatherdev-0285FF?style=for-the-badge&logo=bluesky&labelCol1010)](https://bsky.app/profile/bluefeatherdev.bsky.social)
+[![Bluesky](https://img.shields.io/badge/bluesky-bluefeatherdev-0285FF?style=for-the-badge&logo=bluesky&labelColor=101010)](https://bsky.app/profile/bluefeatherdev.bsky.social)
 [![X](https://img.shields.io/badge/x_(twitter)-bluefeatherdev-000000?style=for-the-badge&logo=x&labelColor=101010)](https://x.com/bluefeatherdev)
 [![YouTube](https://img.shields.io/badge/youtube-bluefeatherdev-FF0000?style=for-the-badge&logo=youtube&labelColor=101010)](https://www.youtube.com/@bluefeatherdev)
 [![Twitch](https://img.shields.io/badge/twitch-bluefeatherdev-9146FF?style=for-the-badge&logo=twitch&labelColor=101010)](https://www.twitch.tv/bluefeatherdev)
