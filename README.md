@@ -2,9 +2,9 @@
 
 ¡Hola! 👋 Soy **desarrollador de aplicaciones móviles Android y iOS** 📲.
 
-Estoy en cuarto año de Ingeniería de Sistemas, Colombia; escogí la ruta de desarrollo de Software, ya que me apasiona el aprendizaje de lenguajes y la creación de experiencias digitales modernas, funcionales y atrayentes.
+Estoy en cuarto año de Ingeniería de Sistemas, Colombia; especializádome en el desarrollo de Software, ya que me apasiona el aprendizaje de lenguajes y la creación de experiencias digitales modernas, funcionales y atrayentes.
 
-Actualmente, estoy enfocado en el desarrollo móvil multiplataforma, aprendiendo tecnologías como **Flutter**, **Dart** y **Firebase**. Estas son mis redes como desarollador:
+Actualmente, estoy enfocado en el desarrollo móvil multiplataforma, aprendiendo tecnologías como **Flutter**, **Dart** y **Firebase**. Estas son mis redes sociales como desarollador:
 
 [![Instagram](https://img.shields.io/badge/instagram-bluefeather.dev-FF0069?style=for-the-badge&logo=instagram&labelColor=101010)](https://www.instagram.com/bluefeather.dev)
 [![Threads](https://img.shields.io/badge/threads-bluefeather.dev-000000?style=for-the-badge&logo=threads&labelColor=101010)](https://www.threads.com/@bluefeather.dev)
