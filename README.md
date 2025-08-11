@@ -1,10 +1,10 @@
 ![](bluefeatherdev_header.png)
 
-📲 ¡Hola! Soy **desarrollador de aplicaciones móviles Android y iOS**.
+¡Hola!👋 Soy **desarrollador de aplicaciones móviles Android y iOS** 📲.
 
 Estudio Ingeniería de Sistemas en Barranquilla, Colombia.
 Me apasiona crear experiencias digitales modernas, funcionales y atrayentes.
-Estoy enfocado en el desarrollo multiplataforma, aprendiendo tecnologías como **Flutter**, **Dart** y **Firebase**.
+Actualmente, estoy enfocado en el desarrollo multiplataforma, aprendiendo tecnologías como **Flutter**, **Dart** y **Firebase**.
 
 [![Instagram](https://img.shields.io/badge/instagram-bluefeather.dev-FF0069?style=for-the-badge&logo=instagram&labelColor=101010)](https://www.instagram.com/bluefeather.dev)
 [![Threads](https://img.shields.io/badge/threads-bluefeather.dev-000000?style=for-the-badge&logo=threads&labelColor=101010)](https://www.threads.com/@bluefeather.dev)
