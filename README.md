@@ -13,15 +13,15 @@ Actualmente, estoy enfocado en el desarrollo móvil multiplataforma, aprendiendo
 [![YouTube](https://img.shields.io/badge/youtube-bluefeatherdev-FF0000?style=for-the-badge&logo=youtube&labelColor=101010)](https://www.youtube.com/@bluefeatherdev)
 [![Twitch](https://img.shields.io/badge/twitch-bluefeatherdev-9146FF?style=for-the-badge&logo=twitch&labelColor=101010)](https://www.twitch.tv/bluefeatherdev)
 
-### 🎯 Tecnologías:
+🎯 Tecnologías:
 <!-- [![techs](https://skillicons.dev/icons?i=flutter,dart,firebase)](https://skillicons.dev) -->
 [![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,firebase,python,bash,rest,graphql&radius=40)](https://github.com/syvixor/skills-icons)
 
-### 🛠️ Herramientas:
+🛠️ Herramientas:
 <!-- [![tools](https://skillicons.dev/icons?i=git,github,figma,obsidian,notion)](https://skillicons.dev) -->
 [![tools](https://skills.syvixor.com/api/icons?i=vscode,figma,obsidian,notion,github,githubactions,git&radius=40)](https://github.com/syvixor/skills-icons)
 
-### 🔄 Sistemas Operativos:
+🔄 Sistemas Operativos:
 <!-- [![oss](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev) -->
 [![oss](https://skills.syvixor.com/api/icons?i=android,ios,macos,linux,windows&radius=40)](https://github.com/syvixor/skills-icons)
 
