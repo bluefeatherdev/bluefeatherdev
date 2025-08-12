@@ -25,7 +25,7 @@ Actualmente, estoy enfocado en el desarrollo móvil multiplataforma, aprendiendo
 
 [![techs](https://skills.syvixor.com/api/icons?i=swift,swiftui,xcode&radius=40)](https://github.com/syvixor/skills-icons) -->
 
-Social media:
+🧑‍💻 **Social media:**
 
 [![Instagram](https://img.shields.io/badge/instagram-bluefeather.dev-FF0069?style=for-the-badge&logo=instagram&labelColor=101010)](https://www.instagram.com/bluefeather.dev)
 [![Threads](https://img.shields.io/badge/threads-bluefeather.dev-000000?style=for-the-badge&logo=threads&labelColor=101010)](https://www.threads.com/@bluefeather.dev)
