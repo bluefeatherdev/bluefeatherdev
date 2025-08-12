@@ -14,7 +14,7 @@ Actualmente, estoy enfocado en el desarrollo móvil multiplataforma, aprendiendo
 <!-- [![tools](https://skillicons.dev/icons?i=git,github,figma,obsidian,notion)](https://skillicons.dev) -->
 [![tools](https://skills.syvixor.com/api/icons?i=vscode,figma,obsidian,notion,github,githubactions,git&radius=40)](https://github.com/syvixor/skills-icons)
 
-🔄 **Sistemas Operativos:**
+🔄 **Sistemas operativos:**
 <!-- [![oss](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev) -->
 [![oss](https://skills.syvixor.com/api/icons?i=android,ios,macos,linux,windows&radius=40)](https://github.com/syvixor/skills-icons)
 
