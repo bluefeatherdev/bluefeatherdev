@@ -29,7 +29,7 @@ Actualmente, estoy enfocado en el desarrollo móvil multiplataforma, aprendiendo
 
 [![Linktree Dev](https://img.shields.io/badge/linktr.ee_dev_-bluefeather.dev-43E55E?style=for-the-badge&logo=linktree&labelColor=101010)](https://www.linktr.ee/bluefeather.dev)
 
-[![Linktree Personal](https://img.shields.io/badge/linktr.ee_personal_-bluefeather.dev-43E55E?style=for-the-badge&logo=linktree&labelColor=101010)](https://www.linktr.ee/jesusdominguez2004)
+[![Linktree Personal](https://img.shields.io/badge/linktr.ee_personal_-jesusdominguez2004-43E55E?style=for-the-badge&logo=linktree&labelColor=101010)](https://www.linktr.ee/jesusdominguez2004)
 
 
 <!-- [![Instagram](https://img.shields.io/badge/instagram-bluefeather.dev-FF0069?style=for-the-badge&logo=instagram&labelColor=101010)](https://www.instagram.com/bluefeather.dev)
