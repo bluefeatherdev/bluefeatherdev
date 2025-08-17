@@ -8,7 +8,7 @@ Actualmente, estoy enfocado en el desarrollo móvil multiplataforma, aprendiendo
 
 🎯 **Tecnologías:**
 <!-- [![techs](https://skillicons.dev/icons?i=flutter,dart,firebase)](https://skillicons.dev) -->
-[![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,firebase,python,postgresql,bash,rest,graphql,docker,kubernetes&radius=40)](https://github.com/syvixor/skills-icons)
+[![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,firebase,python,postgresql,websocket,rest,graphql,bash,docker,kubernetes&radius=40)](https://github.com/syvixor/skills-icons)
 
 🛠️ **Herramientas:**
 <!-- [![tools](https://skillicons.dev/icons?i=git,github,figma,obsidian,notion)](https://skillicons.dev) -->
