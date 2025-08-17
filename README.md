@@ -8,7 +8,7 @@ Actualmente, estoy enfocado en el desarrollo móvil multiplataforma, aprendiendo
 
 🎯 **Tecnologías:**
 <!-- [![techs](https://skillicons.dev/icons?i=flutter,dart,firebase)](https://skillicons.dev) -->
-[![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,firebase,python,bash,rest,graphql,docker,kubernetes&radius=40)](https://github.com/syvixor/skills-icons)
+[![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,firebase,python,postgresql,bash,rest,graphql,docker,kubernetes&radius=40)](https://github.com/syvixor/skills-icons)
 
 🛠️ **Herramientas:**
 <!-- [![tools](https://skillicons.dev/icons?i=git,github,figma,obsidian,notion)](https://skillicons.dev) -->
@@ -30,7 +30,6 @@ Actualmente, estoy enfocado en el desarrollo móvil multiplataforma, aprendiendo
 [![Linktree Dev](https://img.shields.io/badge/linktr.ee_(dev)_-bluefeather.dev-43E55E?style=for-the-badge&logo=linktree&labelColor=101010)](https://www.linktr.ee/bluefeather.dev)
 
 [![Linktree Personal](https://img.shields.io/badge/linktr.ee_(personal)_-jesusdominguez2004-43E55E?style=for-the-badge&logo=linktree&labelColor=101010)](https://www.linktr.ee/jesusdominguez2004)
-
 
 <!-- [![Instagram](https://img.shields.io/badge/instagram-bluefeather.dev-FF0069?style=for-the-badge&logo=instagram&labelColor=101010)](https://www.instagram.com/bluefeather.dev)
 [![Threads](https://img.shields.io/badge/threads-bluefeather.dev-000000?style=for-the-badge&logo=threads&labelColor=101010)](https://www.threads.com/@bluefeather.dev)
