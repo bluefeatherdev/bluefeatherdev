@@ -1,20 +1,26 @@
 ![](bluefeatherdev_header.png)
 
-¡Hola! 👋 Soy **desarrollador de aplicaciones móviles Android y iOS** 📲.
+<!-- ¡Hola! 👋 Soy **desarrollador de aplicaciones móviles Android y iOS** 📲.
 
 Estoy en cuarto año de Ingeniería de Sistemas, Colombia; especializádome en el desarrollo de Software, ya que me apasiona el aprendizaje de lenguajes y la creación de experiencias digitales modernas, funcionales y atrayentes.
 
-Actualmente, estoy enfocado en el desarrollo móvil multiplataforma, aprendiendo tecnologías como **Flutter**, **Dart** y **Firebase**.
+Actualmente, estoy enfocado en el desarrollo móvil multiplataforma, aprendiendo tecnologías como **Flutter**, **Dart** y **Firebase**. -->
 
-🎯 **Tecnologías:**
+Hello! 👋 I’m a **mobile application developer for Android and iOS** 📲.  
+
+I’m currently in my fourth year of Systems Engineering in Colombia, specializing in Software Development. I’m passionate about learning programming languages and creating modern, functional, and engaging digital experiences.  
+
+At the moment, I’m focused on cross-platform mobile development, learning technologies such as **Flutter**, **Dart**, and **Firebase**.
+
+🎯 **Technologies:**
 
 [![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,firebase,python,postgresql,amazonwebservices,websocket,rest,graphql,docker,kubernetes,bash&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
 
-🛠️ **Herramientas:**
+🛠️ **Tools:**
 
 [![tools](https://skills.syvixor.com/api/icons?i=vscode,figma,markdown,obsidian,notion,github,githubactions,git,mermaid&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
 
-⚙️ **Sistemas operativos:**
+⚙️ **Operating systems:**
 
 [![oss](https://skills.syvixor.com/api/icons?i=android,ios,macos,windows,ubuntu&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
 
