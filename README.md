@@ -1,11 +1,5 @@
 ![](bluefeatherdev_header.png)
 
-<!-- ¡Hola! 👋 Soy **desarrollador de aplicaciones móviles Android y iOS**.
-
-Estoy en cuarto año de Ingeniería de Sistemas, Colombia; especializádome en el desarrollo de Software, ya que me apasiona el aprendizaje de lenguajes y la creación de experiencias digitales modernas, funcionales y atrayentes.
-
-Actualmente, estoy enfocado en el desarrollo móvil multiplataforma, aprendiendo tecnologías como **Flutter**, **Dart** y **Firebase**. -->
-
 Hi! 👋 I’m a **Software Engineering student** focused on **Android and iOS mobile app development**.  
 
 I’m passionate about learning programming languages and creating modern, functional, and engaging digital experiences.  
@@ -18,7 +12,7 @@ At the moment, I’m dedicated to cross-platform mobile development, learning te
 
 🛠️ **Tools:**
 
-[![tools](https://skills.syvixor.com/api/icons?i=vscode,figma,markdown,obsidian,notion,github,githubactions,git,mermaid&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
+[![tools](https://skills.syvixor.com/api/icons?i=vscode,figma,markdown,obsidian,notion,github,githubactions,gitlab,git,mermaid&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
 
 ⚙️ **Operating systems:**
 
