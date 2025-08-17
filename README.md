@@ -27,9 +27,9 @@ Actualmente, estoy enfocado en el desarrollo móvil multiplataforma, aprendiendo
 
 🧑‍💻 **Social media:**
 
-[![Linktree Dev](https://img.shields.io/badge/linktr.ee_(dev)_-bluefeather.dev-43E55E?style=for-the-badge&logo=linktree&labelColor=101010)](https://www.linktr.ee/bluefeather.dev)
+[![Linktree Dev](https://img.shields.io/badge/linktr.ee_(dev)_-bluefeather.dev-0F4C75?style=for-the-badge&logo=linktree&labelColor=101010)](https://www.linktr.ee/bluefeather.dev)
 
-[![Linktree Personal](https://img.shields.io/badge/linktr.ee_(personal)_-jesusdominguez2004-43E55E?style=for-the-badge&logo=linktree&labelColor=101010)](https://www.linktr.ee/jesusdominguez2004)
+[![Linktree Personal](https://img.shields.io/badge/linktr.ee_(personal)_-jesusdominguez2004-006A71?style=for-the-badge&logo=linktree&labelColor=101010)](https://www.linktr.ee/jesusdominguez2004)
 
 <!-- [![Instagram](https://img.shields.io/badge/instagram-bluefeather.dev-FF0069?style=for-the-badge&logo=instagram&labelColor=101010)](https://www.instagram.com/bluefeather.dev)
 [![Threads](https://img.shields.io/badge/threads-bluefeather.dev-000000?style=for-the-badge&logo=threads&labelColor=101010)](https://www.threads.com/@bluefeather.dev)
