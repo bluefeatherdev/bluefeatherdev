@@ -6,7 +6,7 @@ Estoy en cuarto año de Ingeniería de Sistemas, Colombia; especializádome en e
 
 Actualmente, estoy enfocado en el desarrollo móvil multiplataforma, aprendiendo tecnologías como **Flutter**, **Dart** y **Firebase**. -->
 
-Hi! 👋 I’m a **mobile application developer for Android and iOS** 📲.  
+Hi! 👋 I’m a **mobile app developer for Android and iOS** 📲.  
 
 I’m currently in my fourth year of Systems Engineering in Colombia, specializing in Software Development. I’m passionate about learning programming languages and creating modern, functional, and engaging digital experiences.  
 
