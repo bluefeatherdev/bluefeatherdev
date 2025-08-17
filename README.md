@@ -6,7 +6,7 @@ Estoy en cuarto año de Ingeniería de Sistemas, Colombia; especializádome en e
 
 Actualmente, estoy enfocado en el desarrollo móvil multiplataforma, aprendiendo tecnologías como **Flutter**, **Dart** y **Firebase**. -->
 
-Hello! 👋 I’m a **Software Engineering student** focused on **Android and iOS mobile development** 📲.  
+Hi! 👋 I’m a **Software Engineering student** focused on **Android and iOS mobile development** 📲.  
 
 I’m passionate about learning programming languages and creating modern, functional, and engaging digital experiences.  
 
