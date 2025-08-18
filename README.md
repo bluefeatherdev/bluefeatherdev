@@ -8,7 +8,7 @@ At the moment, I’m dedicated to cross-platform mobile development, learning te
 
 🎯 **Technologies:**
 
-[![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,firebase,python,postgresql,amazonwebservices,websocket,rest,graphql,docker,kubernetes,bash&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
+[![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,firebase,python,fastapi,mongodb,postgresql,amazonwebservices,jwt,websocket,rest,graphql,docker,kubernetes,bash&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
 
 🛠️ **Tools:**
 
