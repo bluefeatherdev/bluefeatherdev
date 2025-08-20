@@ -8,11 +8,11 @@ At the moment, I’m dedicated to cross-platform mobile development, learning te
 
 🎯 **Technologies:**
 
-[![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,firebase,amazonwebservices,python,fastapi,numpy,pandas,mongodb,postgresql,json,jsonschema,jwt,openapi,oauth,swagger,websocket,rest,graphql,docker,kubernetes,bash&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
+[![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,firebase,amazonwebservices,python,fastapi,numpy,pandas,matplotlib,mongodb,postgresql,json,jsonschema,jwt,openapi,oauth,swagger,websocket,rest,graphql,docker,kubernetes,bash&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
 
 🛠️ **Tools:**
 
-[![tools](https://skills.syvixor.com/api/icons?i=vscode,vercel,googlecolaboratory,figma,markdown,obsidian,notion,github,gitlab,githubactions,git,mermaid&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
+[![tools](https://skills.syvixor.com/api/icons?i=vscode,thunderclient,vercel,googlecolaboratory,figma,markdown,obsidian,notion,github,gitlab,githubactions,git,mermaid&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
 
 ⚙️ **Operating systems:**
 
