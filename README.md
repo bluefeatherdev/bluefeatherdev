@@ -10,13 +10,31 @@ At the moment, I’m dedicated to cross-platform mobile development, learning te
 
 [![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,firebase,amazonwebservices,python,fastapi,numpy,pandas,matplotlib,mongodb,postgresql,json,jsonschema,jwt,openapi,oauth,websocket,rest,graphql,docker,kubernetes,bash&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
 
+<details>
+  <summary>Click me!</summary>
+  <br>
+  Flutter, Dart, Firebase, Amazon Web Services, Python, FastAPI, NumPy, Pandas, Matplotlib, MongoDB, PostgreSQL, JSON, JSON Schema, JWT, OpenAPI, OAuth, WebSocket, REST, GraphQL, Docker, Kubernetes, Bash...
+</details>
+
 🛠️ **Tools:**
 
 [![tools](https://skills.syvixor.com/api/icons?i=vscode,googlecolaboratory,figma,adobeexpress,canva,markdown,mermaid,obsidian,notion,git,github,githubactions,gitlab,uvicorn,swagger,redoc,thunderclient,vercel&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
 
+<details>
+  <summary>Click me!</summary>
+  <br>
+  VS Code, Google Colaboratory, Figma, Adobe Express, Canva, Markdown, Mermaid, Obsidian, Notion, Git, GitHub, GitHub Actions, GitLab, Uvicorn, Swagger, Redoc, Thunder Client, Vercel...
+</details>
+
 ⚙️ **Operating systems:**
 
 [![oss](https://skills.syvixor.com/api/icons?i=android,ios,macos,windows,ubuntu&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
+
+<details>
+  <summary>Click me!</summary>
+  <br>
+  Android, iOS, macOS, Windows, Ubuntu...
+</details>
 
 <!-- 🔭 **Coming Soon**:
 [![techs](https://skills.syvixor.com/api/icons?i=bloc,riverpod,getx&radius=40)](https://github.com/syvixor/skills-icons)
