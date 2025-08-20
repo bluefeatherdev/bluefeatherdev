@@ -13,7 +13,8 @@ At the moment, I’m dedicated to cross-platform mobile development, learning te
 <details>
   <summary>Click me!</summary>
   <br>
-  Flutter, Dart, Firebase, Amazon Web Services, Python, FastAPI, NumPy, Pandas, Matplotlib, MongoDB, PostgreSQL, JSON, JSON Schema, JWT, OpenAPI, OAuth, WebSocket, REST, GraphQL, Docker, Kubernetes, Bash...
+  
+  > Flutter, Dart, Firebase, Amazon Web Services, Python, FastAPI, NumPy, Pandas, Matplotlib, MongoDB, PostgreSQL, JSON, JSON Schema, JWT, OpenAPI, OAuth, WebSocket, REST, GraphQL, Docker, Kubernetes, Bash.
 </details>
 
 🛠️ **Tools:**
@@ -23,7 +24,8 @@ At the moment, I’m dedicated to cross-platform mobile development, learning te
 <details>
   <summary>Click me!</summary>
   <br>
-  VS Code, Google Colaboratory, Figma, Adobe Express, Canva, Markdown, Mermaid, Obsidian, Notion, Git, GitHub, GitHub Actions, GitLab, Uvicorn, Swagger, Redoc, Thunder Client, Vercel...
+  
+  > VS Code, Google Colaboratory, Figma, Adobe Express, Canva, Markdown, Mermaid, Obsidian, Notion, Git, GitHub, GitHub Actions, GitLab, Uvicorn, Swagger, Redoc, Thunder Client, Vercel.
 </details>
 
 ⚙️ **Operating systems:**
@@ -33,7 +35,8 @@ At the moment, I’m dedicated to cross-platform mobile development, learning te
 <details>
   <summary>Click me!</summary>
   <br>
-  Android, iOS, macOS, Windows, Ubuntu...
+  
+  > Android, iOS, macOS, Windows, Ubuntu...
 </details>
 
 <!-- 🔭 **Coming Soon**:
