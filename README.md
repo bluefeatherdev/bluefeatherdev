@@ -12,7 +12,7 @@ At the moment, I’m dedicated to cross-platform mobile development, learning te
 
 🛠️ **Tools:**
 
-[![tools](https://skills.syvixor.com/api/icons?i=vscode,googlecolaboratory,uvicorn,swagger,redoc,thunderclient,vercel,figma,adoveexpress,canva,markdown,mermaid,obsidian,notion,github,gitlab,githubactions,git&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
+[![tools](https://skills.syvixor.com/api/icons?i=vscode,googlecolaboratory,uvicorn,swagger,redoc,thunderclient,vercel,figma,adobeexpress,canva,markdown,mermaid,obsidian,notion,github,gitlab,githubactions,git&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
 
 ⚙️ **Operating systems:**
 
