@@ -42,15 +42,15 @@ At the moment, I’m dedicated to cross-platform mobile development, learning te
 
 <div align="left">
   <a href="https://github.com/bluefeatherdev">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bluefeatherdev&theme=algolia&locale=en" style="width: 100%;" alt="Graph of Commits" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bluefeatherdev&theme=noctis_minimus&locale=en" style="width: 100%;" alt="Graph of Commits" />
   </a>
   <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr>
       <td style="width: 60%; vertical-align: top; border: none;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluefeatherdev&theme=algolia&locale=en" style="width: 100%;" alt="Stats" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluefeatherdev&theme=noctis_minimus&locale=en" style="width: 100%;" alt="Stats" />
       </td>
       <td style="width: 40%; vertical-align: top; border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bluefeatherdev&color=0e75b6&style=flat&theme=algolia&hide_border=true&locale=en" style="width: 100%;" alt="Most used languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bluefeatherdev&color=0e75b6&style=flat&theme=noctis_minimus&hide_border=true&locale=en" style="width: 100%;" alt="Most used languages" />
       </td>
     </tr>
   </table>
