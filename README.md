@@ -38,4 +38,20 @@ At the moment, I’m dedicated to cross-platform mobile development, learning te
 [![YouTube](https://img.shields.io/badge/youtube-bluefeatherdev-FF0000?style=for-the-badge&logo=youtube&labelColor=101010)](https://www.youtube.com/@bluefeatherdev)
 [![Twitch](https://img.shields.io/badge/twitch-bluefeatherdev-9146FF?style=for-the-badge&logo=twitch&labelColor=101010)](https://www.twitch.tv/bluefeatherdev) -->
 
+<div align="left">
+  <a href="https://github.com/Lumanet">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bluefeatherdev&theme=algolia&locale=es" style="width: 100%;" alt="Graph of Commits" />
+  </a>
+  <table style="width: 100%; border-collapse: collapse; border: none;">
+    <tr>
+      <td style="width: 60%; vertical-align: top; border: none;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluefeatherdev&theme=algolia&locale=es" style="width: 100%;" alt="Stats" />
+      </td>
+      <td style="width: 40%; vertical-align: top; border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bluefeatherdev&color=0e75b6&style=flat&theme=algolia&hide_border=true&locale=es" style="width: 100%;" alt="Most used languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 > Made with '\u{2665}' (♥)
