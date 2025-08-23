@@ -41,7 +41,7 @@ At the moment, I’m dedicated to cross-platform mobile development, learning te
 📊 **GitHub summary:**
 
 <div align="left">
-  <a href="https://github.com/Lumanet">
+  <a href="https://github.com/bluefeatherdev">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bluefeatherdev&theme=algolia&locale=es" style="width: 100%;" alt="Graph of Commits" />
   </a>
   <table style="width: 100%; border-collapse: collapse; border: none;">
