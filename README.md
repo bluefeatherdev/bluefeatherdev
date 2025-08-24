@@ -27,6 +27,5 @@ At the moment, I’m dedicated to cross-platform mobile development, learning te
 📊 **GitHub summary:**
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluefeatherdev&theme=noctis_minimus&locale=en" alt="Stats" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bluefeatherdev&theme=noctis_minimus&locale=en" alt="Graph of Commits" />
 
 > Made with '\u{2665}' (♥)
