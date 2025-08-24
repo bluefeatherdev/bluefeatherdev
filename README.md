@@ -17,13 +17,6 @@ At the moment, I’m dedicated to cross-platform mobile development, learning te
 ⚙️ **Operating systems:**
 
 [![oss](https://skills.syvixor.com/api/icons?i=android,ios,macos,windows,ubuntu&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
-  
-<!-- 🔭 **Coming Soon**:
-[![techs](https://skills.syvixor.com/api/icons?i=bloc,riverpod,getx&radius=40)](https://github.com/syvixor/skills-icons)
-
-[![techs](https://skills.syvixor.com/api/icons?i=kotlin,jetpackcompose,androidstudio&radius=40)](https://github.com/syvixor/skills-icons)
-
-[![techs](https://skills.syvixor.com/api/icons?i=swift,swiftui,xcode&radius=40)](https://github.com/syvixor/skills-icons) -->
 
 🧑‍💻 **Social media:**
 
@@ -31,29 +24,9 @@ At the moment, I’m dedicated to cross-platform mobile development, learning te
 
 [![Linktree Personal](https://img.shields.io/badge/linktr.ee_(personal)_-jesusdominguez2004-006A71?style=for-the-badge&logo=linktree&labelColor=101010)](https://www.linktr.ee/jesusdominguez2004)
 
-<!-- [![Instagram](https://img.shields.io/badge/instagram-bluefeather.dev-FF0069?style=for-the-badge&logo=instagram&labelColor=101010)](https://www.instagram.com/bluefeather.dev)
-[![Threads](https://img.shields.io/badge/threads-bluefeather.dev-000000?style=for-the-badge&logo=threads&labelColor=101010)](https://www.threads.com/@bluefeather.dev)
-[![Bluesky](https://img.shields.io/badge/bluesky-bluefeatherdev-0285FF?style=for-the-badge&logo=bluesky&labelColor=101010)](https://bsky.app/profile/bluefeatherdev.bsky.social)
-[![X](https://img.shields.io/badge/x_(twitter)-bluefeatherdev-000000?style=for-the-badge&logo=x&labelColor=101010)](https://x.com/bluefeatherdev)
-[![YouTube](https://img.shields.io/badge/youtube-bluefeatherdev-FF0000?style=for-the-badge&logo=youtube&labelColor=101010)](https://www.youtube.com/@bluefeatherdev)
-[![Twitch](https://img.shields.io/badge/twitch-bluefeatherdev-9146FF?style=for-the-badge&logo=twitch&labelColor=101010)](https://www.twitch.tv/bluefeatherdev) -->
-
 📊 **GitHub summary:**
 
-<div align="left">
-  <a href="https://github.com/bluefeatherdev">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bluefeatherdev&theme=noctis_minimus&locale=en" style="width: 100%;" alt="Graph of Commits" />
-  </a>
-  <table style="width: 100%; border-collapse: collapse; border: none;">
-    <tr>
-      <td style="width: 60%; vertical-align: top; border: none;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluefeatherdev&theme=noctis_minimus&locale=en" style="width: 100%;" alt="Stats" />
-      </td>
-      <td style="width: 40%; vertical-align: top; border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bluefeatherdev&color=0e75b6&style=flat&theme=noctis_minimus&hide_border=true&locale=en" style="width: 100%;" alt="Most used languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluefeatherdev&theme=noctis_minimus&locale=en" alt="Stats" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bluefeatherdev&theme=noctis_minimus&locale=en" alt="Graph of Commits" />
 
 > Made with '\u{2665}' (♥)
