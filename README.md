@@ -8,11 +8,11 @@ At the moment, I’m dedicated to cross-platform mobile development, learning te
 
 🎯 **Technologies:**
 
-[![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,firebase,gemini,amazonwebservices,python,fastapi,mongodb,postgresql,json,jsonschema,jwt,openapi,oauth,websocket,rest,graphql,docker,kubernetes,bash&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
+[![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,firebass,amazonwebservices,python,fastapi,mongodb,postgresql,json,jsonschema,jwt,openapi,oauth,websocket,rest,graphql,docker,kubernetes,bash&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
 
 🛠️ **Tools:**
 
-[![tools](https://skills.syvixor.com/api/icons?i=vscode,androidstudio,googlecolaboratory,figma,adobeexpress,canva,markdown,mermaid,obsidian,notion,git,github,githubactions,githubcopilot,gitlab,discord,uvicorn,swagger,redoc,thunderclient,vercel&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
+[![tools](https://skills.syvixor.com/api/icons?i=vscode,androidstudio,googlecolaboratory,figma,adobeexpress,canva,markdown,mermaid,obsidian,notion,git,github,githubactions,githubcopilot,gitlab,gemini,discord,uvicorn,swagger,redoc,thunderclient,vercel&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
 
 ⚙️ **Operating systems:**
 
