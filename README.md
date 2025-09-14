@@ -28,4 +28,4 @@ I’m dedicated to cross-platform mobile development, learning technologies such
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluefeatherdev&theme=noctis_minimus&locale=en" alt="Stats" />
 
-> Made with '\u{2665}' (♥)
+> Made with '\u{2665}' (♥) by Jesús Domínguez [@bluefeatherdev](https://github.com/bluefeatherdev/)
