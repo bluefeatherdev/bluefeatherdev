@@ -1,6 +1,6 @@
 ![](bluefeatherdev_header.jpg)
 
-Hi! 👋 I’m a **Software Engineering student** focused on **Android and iOS mobile app development**.    
+Hi! 👋 I’m a **Software Engineering student** focused on Android and iOS mobile app development.    
 
 I’m dedicated to cross-platform mobile development, learning technologies such as Flutter, Dart, and Firebase. I’m passionate about learning programming languages and creating modern, functional, and engaging digital experiences.
 
