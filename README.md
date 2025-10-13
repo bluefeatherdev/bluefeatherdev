@@ -13,7 +13,7 @@ My goal is to create applications that connect people, simplify the way they sha
 
 🛠️ **Tools:**
 
-[![tools](https://skills.syvixor.com/api/icons?i=vscode,androidstudio,googlecolaboratory,figma,adobeexpress,canva,markdown,mermaid,obsidian,notion,git,github,githubactions,githubcopilot,gitlab,gemini,discord,uvicorn,swagger,redoc,thunderclient,vercel&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
+[![tools](https://skills.syvixor.com/api/icons?i=vscode,androidstudio,googlecolaboratory,figma,canva,markdown,mermaid,obsidian,notion,git,github,githubactions,githubcopilot,gitlab,gemini,discord,uvicorn,swagger,redoc,thunderclient,vercel&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
 
 ⚙️ **Operating systems:**
 
