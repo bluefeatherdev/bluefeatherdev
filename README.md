@@ -7,13 +7,15 @@ I’m dedicated to cross-platform mobile development, learning technologies such
 I create applications that connect people, simplify the way they share meaningful information, and help them organize their lives more effectively. I strive to design solutions that are not only technically solid but also enhance communication and deliver real value to everyday experiences.
 
 
-🎯 **Technologies, tools and Operating systems:**
+🎯 **My Stack:**
 
-[![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,firebase,amazonwebservices,python,fastapi,mongodb,postgresql,json,jsonschema,jwt,openapi,oauth,websocket,rest,graphql,docker,kubernetes,bash&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
+[![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,firebase,figma,postgresql,docker,kubernetes,git,github,githubcopilot,vscode&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
+
+<!-- [![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,firebase,amazonwebservices,python,fastapi,mongodb,postgresql,json,jsonschema,jwt,openapi,oauth,websocket,rest,graphql,docker,kubernetes,bash&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
 
 [![tools](https://skills.syvixor.com/api/icons?i=vscode,androidstudio,googlecolaboratory,figma,canva,markdown,mermaid,obsidian,notion,git,github,githubactions,githubcopilot,gitlab,gemini,discord,uvicorn,swagger,redoc,thunderclient,vercel&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
 
-[![oss](https://skills.syvixor.com/api/icons?i=android,ios,macos,windows,ubuntu&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
+[![oss](https://skills.syvixor.com/api/icons?i=android,ios,macos,windows,ubuntu&perline=8&radius=40)](https://github.com/syvixor/skills-icons) -->
 
 🧑‍💻 **Social media:**
 
