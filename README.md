@@ -21,7 +21,7 @@ I create applications that connect people, simplify the way they share meaningfu
 
 [![Linktree Dev](https://img.shields.io/badge/linktr.ee_(dev)_-bluefeather.dev-0F4C75?style=for-the-badge&logo=linktree&labelColor=101010)](https://www.linktr.ee/bluefeather.dev)
 
-[![Linktree Personal](https://img.shields.io/badge/linktr.ee_(personal)_-jesusdominguez2004-006A71?style=for-the-badge&logo=linktree&labelColor=101010)](https://www.linktr.ee/jesusdominguez2004)
+[![Linktree Personal](https://img.shields.io/badge/linktr.ee_(personal)_-Jesús_Domínguez-006A71?style=for-the-badge&logo=linktree&labelColor=101010)](https://www.linktr.ee/jesusdominguez2004)
 
 📊 **GitHub summary:**
 
