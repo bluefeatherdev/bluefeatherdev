@@ -1,4 +1,4 @@
-<!--  ![](bluefeatherdev_header.jpg) -->
+![](bluefeatherdev_header.jpg)
 
 Hi! 👋 I’m a **Software Engineering student** focused on Android and iOS mobile app development.    
 
