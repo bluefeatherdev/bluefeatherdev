@@ -1,8 +1,8 @@
 <!-- ![](bluefeatherdev_header.jpg) -->
 
-### Hello, World!
+### Hi! 👋🏻
 
-I’m a **Software Engineering student** focused on Android and iOS mobile app development.    
+**Software Engineering student** focused on Android and iOS mobile app development.    
 
 Dedicated to cross-platform mobile development, learning technologies such as Flutter, Dart, and Firebase. I’m passionate about learning programming languages and creating modern, functional, and engaging digital experiences.
 
