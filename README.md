@@ -4,9 +4,9 @@
 
 **Software Engineering student** focused on Android and iOS mobile app development.    
 
-Dedicated to cross-platform mobile development, learning technologies such as Flutter, Dart, and Firebase. I’m passionate about learning programming languages and creating modern, functional, and engaging digital experiences.
+> Dedicated to cross-platform mobile development, learning technologies such as Flutter, Dart, and Firebase. I’m passionate about learning programming languages and creating modern, functional, and engaging digital experiences.
 
-I create applications that connect people, simplify the way they share meaningful information, and help them organize their lives more effectively. I strive to design solutions that are not only technically solid but also enhance communication and deliver real value to everyday experiences.
+> I create applications that connect people, simplify the way they share meaningful information, and help them organize their lives more effectively. I strive to design solutions that are not only technically solid but also enhance communication and deliver real value to everyday experiences.
 
 ### **My Stack**
 
