@@ -10,7 +10,7 @@
 
 ### **My Stack**
 
-[![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,jaspr,firebase,firebaseauthentication,firebasecloudfirestore,figma,excalidraw,postgresql,docker,kubernetes,git,github,githubcopilot,chatgpt,gemini,microsoftcopilot,claudeai,vscode,bash,n8n,lovable,notion&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
+[![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,jaspr,firebase,firebaseauthentication,firebasecloudfirestore,figma,excalidraw,postgresql,docker,kubernetes,git,github,githubcopilot,chatgpt,gemini,microsoftcopilot,claudeai,vscode,bash,n8n,lovable,markdown,mermaid,notion&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
 
 <!-- [![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,firebase,amazonwebservices,python,fastapi,mongodb,postgresql,json,jsonschema,jwt,openapi,oauth,websocket,rest,graphql,docker,kubernetes,bash&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
 
