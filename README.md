@@ -1,4 +1,4 @@
-<h2 align="center">Hello there!</h2>
+<h2 align="center">Hello there! 👋🏻</h2>
 
 **I'm a Software Engineering student** focused on Android and iOS mobile app development.    
 
@@ -6,7 +6,7 @@
 
 > I create applications that connect people, simplify the way they share meaningful information, and help them organize their lives more effectively. I strive to design solutions that are not only technically solid but also enhance communication and deliver real value to everyday experiences.
 
-<h2 align="center">My Stack</h2>
+<h2 align="center">My Stack 🎯</h2>
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -124,12 +124,12 @@
 
 [![oss](https://skills.syvixor.com/api/icons?i=android,ios,macos,windows,ubuntu&perline=8&radius=40)](https://github.com/syvixor/skills-icons) -->
 
-<h2 align="center">My Social Media</h2>
+<h2 align="center">My Social Media 🧑🏻‍💻</h2>
 
 [![Linktree Dev](https://img.shields.io/badge/linktr.ee_(dev)_-bluefeather.dev-0F4C75?style=for-the-badge&logo=linktree&labelColor=101010)](https://www.linktr.ee/bluefeather.dev)
 [![Linktree Personal](https://img.shields.io/badge/linktr.ee_(personal)_-Jesús_Domínguez-006A71?style=for-the-badge&logo=linktree&labelColor=101010)](https://www.linktr.ee/jdomingu19)
 
-<h2 align="center">GitHub summary</h2>
+<h2 align="center">GitHub summary 📊</h2>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluefeatherdev&theme=noctis_minimus&locale=en" alt="Stats" />
 
