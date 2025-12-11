@@ -1,6 +1,4 @@
-<!-- ![](bluefeatherdev_header.jpg) -->
-
-### Hi! 👋🏻
+<h2 align="center">Hello World!</h2>
 
 **Software Engineering student** focused on Android and iOS mobile app development.    
 
@@ -126,13 +124,12 @@
 
 [![oss](https://skills.syvixor.com/api/icons?i=android,ios,macos,windows,ubuntu&perline=8&radius=40)](https://github.com/syvixor/skills-icons) -->
 
-### **Social media**
+<h2 align="center">My Social Media</h2>
 
 [![Linktree Dev](https://img.shields.io/badge/linktr.ee_(dev)_-bluefeather.dev-0F4C75?style=for-the-badge&logo=linktree&labelColor=101010)](https://www.linktr.ee/bluefeather.dev)
-
 [![Linktree Personal](https://img.shields.io/badge/linktr.ee_(personal)_-Jesús_Domínguez-006A71?style=for-the-badge&logo=linktree&labelColor=101010)](https://www.linktr.ee/jdomingu19)
 
-### **GitHub summary**
+<h2 align="center">GitHub summary</h2>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluefeatherdev&theme=noctis_minimus&locale=en" alt="Stats" />
 
