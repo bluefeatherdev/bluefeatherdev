@@ -1,6 +1,10 @@
 <h2 align="center">Hello there! 👋🏻</h2>
 
-**I'm a Software Engineering student** focused on Android and iOS mobile app development.    
+<div align="center">
+  
+**I'm a Software Engineering student** focused on Android and iOS mobile app development.   
+
+</div>
 
 > Dedicated to cross-platform mobile development, learning technologies such as Flutter, Dart, and Firebase. I’m passionate about learning programming languages and creating modern, functional, and engaging digital experiences.
 
@@ -126,11 +130,21 @@
 
 <h2 align="center">My Social Media 🧑🏻‍💻</h2>
 
+<div align="center">
+
 [![Linktree Dev](https://img.shields.io/badge/linktr.ee_(dev)_-bluefeather.dev-0F4C75?style=for-the-badge&logo=linktree&labelColor=101010)](https://www.linktr.ee/bluefeather.dev)
 [![Linktree Personal](https://img.shields.io/badge/linktr.ee_(personal)_-Jesús_Domínguez-006A71?style=for-the-badge&logo=linktree&labelColor=101010)](https://www.linktr.ee/jdomingu19)
 
+</div>
+
 <h2 align="center">GitHub summary 📊</h2>
 
+<div align="center">
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluefeatherdev&theme=noctis_minimus&locale=en" alt="Stats" />
+
+</div>
+
+<br>
 
 > Made with '\u{2665}' (♥) by Jesús Domínguez [@bluefeatherdev](https://github.com/bluefeatherdev/)
