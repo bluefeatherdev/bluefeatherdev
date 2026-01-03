@@ -10,6 +10,12 @@
 
 > I create applications that connect people, simplify the way they share meaningful information, and help them organize their lives more effectively. I strive to design solutions that are not only technically solid but also enhance communication and deliver real value to everyday experiences.
 
+<!-- [![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,firebase,amazonwebservices,python,fastapi,mongodb,postgresql,json,jsonschema,jwt,openapi,oauth,websocket,rest,graphql,docker,kubernetes,bash&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
+
+[![tools](https://skills.syvixor.com/api/icons?i=vscode,androidstudio,googlecolaboratory,figma,canva,markdown,mermaid,obsidian,notion,git,github,githubactions,githubcopilot,gitlab,gemini,discord,uvicorn,swagger,redoc,thunderclient,vercel&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
+
+[![oss](https://skills.syvixor.com/api/icons?i=android,ios,macos,windows,ubuntu&perline=8&radius=40)](https://github.com/syvixor/skills-icons) -->
+
 <h2 align="center">My Stack 🎯</h2>
 <table align="center">
   <tr>
@@ -22,43 +28,19 @@
       <br>Dart
     </td>
     <td align="center" width="90">
-      <img src="https://skills.syvixor.com/api/icons?i=jaspr" width="45" height="45" alt="Jaspr" />
-      <br>Jaspr
-    </td>
-    <td align="center" width="90">
       <img src="https://skills.syvixor.com/api/icons?i=firebase" width="45" height="45" alt="Firebase" />
       <br>Firebase
-    </td>
-    <td align="center" width="90">
-      <img src="https://skills.syvixor.com/api/icons?i=firebaseauthentication" width="45" height="45" alt="Firebase Authentication" />
-      <br>Firebase Authentication
-    </td>
-    <td align="center" width="90">
-      <img src="https://skills.syvixor.com/api/icons?i=firebasecloudfirestore" width="45" height="45" alt="Firebase Cloud Firestore" />
-      <br>Firebase Cloud Firestore
     </td>
     <td align="center" width="90">
       <img src="https://skills.syvixor.com/api/icons?i=figma" width="45" height="45" alt="Figma" />
       <br>Figma
     </td>
     <td align="center" width="90">
-      <img src="https://skills.syvixor.com/api/icons?i=excalidraw" width="45" height="45" alt="Excalidraw" />
-      <br>Excalidraw
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skills.syvixor.com/api/icons?i=postgresql" width="45" height="45" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="90">
       <img src="https://skills.syvixor.com/api/icons?i=docker" width="45" height="45" alt="Docker" />
       <br>Docker
     </td>
-    <td align="center" width="90">
-      <img src="https://skills.syvixor.com/api/icons?i=kubernetes" width="45" height="45" alt="Kubernetes" />
-      <br>Kubernetes
-    </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skills.syvixor.com/api/icons?i=git" width="45" height="45" alt="Git" />
       <br>Git
@@ -98,20 +80,8 @@
       <br>Bash
     </td>
     <td align="center" width="90">
-      <img src="https://skills.syvixor.com/api/icons?i=n8n" width="45" height="45" alt="n8n" />
-      <br>n8n
-    </td>
-    <td align="center" width="90">
-      <img src="https://skills.syvixor.com/api/icons?i=lovable" width="45" height="45" alt="Lovable" />
-      <br>Lovable
-    </td>
-    <td align="center" width="90">
       <img src="https://skills.syvixor.com/api/icons?i=markdown" width="45" height="45" alt="Markdown" />
       <br>Markdown
-    </td>
-    <td align="center" width="90">
-      <img src="https://skills.syvixor.com/api/icons?i=mermaid" width="45" height="45" alt="Mermaid" />
-      <br>Mermaid
     </td>
   </tr>
   <tr>
@@ -121,12 +91,6 @@
     </td>
   </tr>
 </table>
-
-<!-- [![techs](https://skills.syvixor.com/api/icons?i=flutter,dart,firebase,amazonwebservices,python,fastapi,mongodb,postgresql,json,jsonschema,jwt,openapi,oauth,websocket,rest,graphql,docker,kubernetes,bash&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
-
-[![tools](https://skills.syvixor.com/api/icons?i=vscode,androidstudio,googlecolaboratory,figma,canva,markdown,mermaid,obsidian,notion,git,github,githubactions,githubcopilot,gitlab,gemini,discord,uvicorn,swagger,redoc,thunderclient,vercel&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
-
-[![oss](https://skills.syvixor.com/api/icons?i=android,ios,macos,windows,ubuntu&perline=8&radius=40)](https://github.com/syvixor/skills-icons) -->
 
 <h2 align="center">My Social Media 🧑🏻‍💻</h2>
 
