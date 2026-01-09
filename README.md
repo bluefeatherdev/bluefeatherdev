@@ -89,6 +89,10 @@
       <img src="https://skills.syvixor.com/api/icons?i=notion" width="45" height="45" alt="Notion" />
       <br>Notion
     </td>
+   <td align="center" width="90">
+      <img src="https://skills.syvixor.com/api/icons?i=mermaid" width="45" height="45" alt="Mermaid" />
+      <br>Mermaid
+    </td>
   </tr>
 </table>
 
